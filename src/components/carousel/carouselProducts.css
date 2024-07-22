@@ -1,0 +1,6 @@
+.horizontal-carousel {
+  width: 100%; /* Ajusta el ancho según sea necesario */
+  overflow-x: auto; /* Habilitar desplazamiento horizontal */
+  white-space: nowrap; /* Evitar saltos de línea */
+  margin: 0; /* Eliminar márgenes predeterminados */
+}
